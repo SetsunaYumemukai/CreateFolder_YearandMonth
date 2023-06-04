@@ -23,8 +23,8 @@ https://win2012r2.com/2021/08/02/powershell-taskschd/
 ### 全般
 ![image](https://github.com/SetsunaYumemukai/CreateFolder_YearandMonth/assets/125370960/df213295-d7f0-4325-8069-904e12c9c7cf)
 
-### トリガー
-![image](https://github.com/SetsunaYumemukai/CreateFolder_YearandMonth/assets/125370960/086e04d6-1cf6-454c-860c-d8e2dadc4743)
+### トリガー(1月1日に8:30に起動する)(Activate at 8:30 on January 1.)
+![image](https://github.com/SetsunaYumemukai/CreateFolder_YearandMonth/assets/125370960/25740535-7d00-4f4b-a4c1-50fdfa5826a1)
 
 ### 操作
 ![image](https://github.com/SetsunaYumemukai/CreateFolder_YearandMonth/assets/125370960/612c044a-42d4-447d-baa5-e720a206807d)
