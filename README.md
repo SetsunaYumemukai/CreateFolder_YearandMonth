@@ -7,7 +7,7 @@ Create a year>month folder
 ## 2023年度フォルダ作成(Create a folder as shown in the following figure.)
 ![image](https://github.com/SetsunaYumemukai/CreateFolder_YearandMonth/assets/125370960/37afb4d5-5128-4ce7-bd58-1428823c3b96)
 
-## 2023年度フォルダ作成のフォルダ直下に01月～12月までのフォルダを作成(Create folders from Jan to Dec directly under the folder created for FY2023)
+## 2023年度フォルダ直下に01月～12月までのフォルダを作成(Create folders from Jan to Dec directly under the folder created for FY2023)
 ![image](https://github.com/SetsunaYumemukai/CreateFolder_YearandMonth/assets/125370960/d07471a3-6dd9-457e-83f8-d44e6ae4f747)
 
 # 我のこの年月フォルダ作成.ps1ファイルの使い方(My use of this year/month folder creation .ps1 file)
