@@ -55,8 +55,8 @@ If I had time, I'd like to make a .ps1 file for creating date folders.
 
 ```mermaid
 ---
-title:凡例
+title: 凡例
 ---
-graph lR
- A == 映像信号 == --> B
+graph LR
+  A == 映像信号 ==> B
 ```
