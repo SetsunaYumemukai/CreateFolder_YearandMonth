@@ -1,8 +1,8 @@
 # Index
 
 <!-- markdownlint=disable MD051 -->
-[CreateFolder_YearandMonth](#user-content-1-CreateFolder_YearandMonth)
 
+- [CreateFolder_YearandMonth](#user-content-createfolder_yearandmonth)
 
 <!-- markdownlint=disable MD051 -->
 
