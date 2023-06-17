@@ -57,6 +57,6 @@ If I had time, I'd like to make a .ps1 file for creating date folders.
 ---
 title: 凡例
 ---
-graph LR
+graph
   A == 映像信号 ==> B
 ```
