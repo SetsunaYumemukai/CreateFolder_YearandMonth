@@ -53,10 +53,3 @@ If I had time, I'd like to make a .ps1 file for creating date folders.
 ※翻訳にはDeepLを使用しています。もし翻訳がおかしかったらごめんね。
 ※I am using DeepL in my translation. Sorry if the translation is wrong.
 
-```mermaid
----
-title: 凡例
----
-graph
-  A == 映像信号 ==> B
-```
